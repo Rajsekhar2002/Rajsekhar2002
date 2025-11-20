@@ -1,4 +1,4 @@
-# Hi, I'm Raj 👋
+# Hi, I'm RajSudhansu 👋
 ### Full-Stack Java Developer | UI & Backend Developer | Oracle SQL | Spring Boot
 
 I am a **Full-Stack Java Developer (Fresher)** passionate about building real-world web applications using **Java, JSP/Servlets, JDBC, Spring Boot, HTML, CSS, JavaScript**, and **Oracle SQL**.  
