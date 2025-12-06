@@ -15,7 +15,7 @@ I focus on writing clean, readable, and maintainable code and continuously impro
 ---
 
 ### 🔧 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS 
 - **Backend:** Core Java, JSP, Servlets, Spring, Spring Boot, JDBC  
 - **Database:** Oracle SQL  
 - **Tools:** Git, GitHub, Eclipse, VS Code, SQL Developer  
@@ -23,12 +23,9 @@ I focus on writing clean, readable, and maintainable code and continuously impro
 ---
 
 ### 🌟 Projects I Work On
-- 🔹 Hotel Booking System  
-- 🔹 Banking System  
-- 🔹 Movie Website  
-- 🔹 Hospital Management System  
-- 🔹 Java Console Projects (ATM, Bank, Library Management)
-
+- 🔹 Hotel Booking System
+- 🔹 E-learning-website
+- 🔹 Banking System    
 ---
 
 ### 📫 Connect with Me
